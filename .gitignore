@@ -1,0 +1,6 @@
+
+**/solution/.terraform/*
+
+**/.terraform.lock.hcl
+
+**/.terraform.tfstate
