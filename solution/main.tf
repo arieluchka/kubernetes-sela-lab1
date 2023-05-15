@@ -33,4 +33,3 @@ resource "azurerm_kubernetes_cluster" "AKSCluster1" {
     type = "SystemAssigned"
   }
 }
-
